@@ -6,8 +6,8 @@ import requests
 
 # Constants
 GITHUB_USERNAME = 'MathiasJoensson'
-GITHUB_TOKEN = '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'
-MY_PROJECTS_PATH = "C:\\Users\\User\\bioinformatics\\MyProjects"
+GITHUB_TOKEN = 'your_github_token'
+MY_PROJECTS_PATH = "C:\\path_to_project"
 
 # Check if project name is provided
 if len(sys.argv) < 2:
